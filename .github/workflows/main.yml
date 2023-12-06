@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.pagespeed.svg
+          filename: metrics.plugin.pagespeed.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_pagespeed: yes
