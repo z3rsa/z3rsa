@@ -21,3 +21,13 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://z3rsa.com
+          
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.screenshot.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://lecoq.io
