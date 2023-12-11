@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-nawwafminnatallah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nawwaf-minnatallah/)](https://www.linkedin.com/in/nawwaf-minnatallah/)
 [![Instagram](https://img.shields.io/badge/z3rsa-white.svg?style=style&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/z3rsa/)](https://www.instagram.com/z3rsa/)
 
-Hello, I'm a Fullstack Web Developer who is passionate about creating high-performance apps and great user experiences. I am currently honing my skills with ReactJS and NextJS for frontend development, and Express and MongoDB Atlas for backend and cloud database management. I am passionate about crafting efficient and user-friendly web applications and am excited to collaborate with like-minded professionals in the industry.
+Hello, I'm a Fullstack Web Developer who is passionate about creating high-performance apps and great user experiences. I am currently honing my skills with React.js and Next.js for frontend development, and Express.js and MongoDB Atlas for backend and cloud database management. I am passionate about crafting efficient and user-friendly web applications and am excited to collaborate with like-minded professionals in the industry.
 
 <img src="https://api.z3rsa.com/images/bannerZ3RSA.png"/>
 
