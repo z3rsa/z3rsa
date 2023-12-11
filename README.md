@@ -16,7 +16,7 @@ Hello, I'm a Fullstack Web Developer who is passionate about creating high-perfo
 > Z3RSA.com Performance and Most Languages Used (github)
 <table>
   <td align="center">
-    <img src="https://github.com/z3rsa/z3rsa/blob/main/metrics.plugin.pagespeed.detailed.svg" height="250px"/> 
+    <img src="https://github.com/z3rsa/z3rsa/blob/main/metrics.plugin.pagespeed.detailed.svg" width="450px" height="auto"/> 
   </td>
   <td>
     <img src="https://github.com/z3rsa/z3rsa/blob/main/metrics.plugin.languages.details.svg" />
