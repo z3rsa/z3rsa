@@ -22,7 +22,7 @@ Hello, I'm a Fullstack Web Developer who is passionate about creating high-perfo
     <img src="https://github.com/z3rsa/z3rsa/blob/main/metrics.plugin.languages.details.svg" />
     <p align="center">
       <sub>
-        Private repository is not included.
+        Private repository not included.
       </sub>
     </p>
   </td>
