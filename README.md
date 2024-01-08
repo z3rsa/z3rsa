@@ -1,4 +1,4 @@
-## Nawwaf Minnatallah - Z3RSA - XenoFX
+## Nawwaf Minnatallah
 
 [![GitHub followers](https://img.shields.io/github/followers/z3rsa?label=Follow&style=social)](https://github.com/z3rsa/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-nawwafminnatallah@gmail.com-white??style=for-the-badge&logo=gmail&logoColor=c14438&link=mailto:nawwafminnatallah@gmail.com)](mailto:nawwafminnatallah@gmail.com)
