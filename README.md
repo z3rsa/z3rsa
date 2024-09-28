@@ -10,8 +10,7 @@ Hello, I'm a Fullstack Web Developer who is passionate about creating high-perfo
 <img src="https://api.z3rsa.com/images/bannerZ3RSA.png"/>
 
 > Z3RSA.com Status | Uptime | SSL Cert Exp
-
-![](https://status.z3rsa.com/api/badge/6/status?style=for-the-badge) ![](https://status.z3rsa.com/api/badge/6/uptime?style=for-the-badge) ![](https://status.z3rsa.com/api/badge/6/cert-exp?style=for-the-badge)
+![](https://status.z3rsa.com/api/badge/9/status?style=for-the-badge) ![](https://status.z3rsa.com/api/badge/9/uptime?style=for-the-badge) ![](https://status.z3rsa.com/api/badge/9/cert-exp?style=for-the-badge)
 
 > Z3RSA.com Performance and Most Languages Used (github)
 <table>
