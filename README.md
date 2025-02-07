@@ -7,7 +7,7 @@
 
 Hello, I'm a Fullstack Web Developer who is passionate about creating high-performance apps and great user experiences. I am currently honing my skills with React.js and Next.js for frontend development, and Express.js and MongoDB Atlas for backend and cloud database management. I am passionate about crafting efficient and user-friendly web applications and am excited to collaborate with like-minded professionals in the industry.
 
-<img src="[https://api.z3rsa.com/images/bannerZ3RSA.png](https://api.z3rsa.com/uploads/banner_Z3_RSA_de38e5a095.png)"/>
+<img src="https://api.z3rsa.com/uploads/banner_Z3_RSA_de38e5a095.png"/>
 
 > Z3RSA.com Status | Uptime | SSL Cert Exp
 > 
